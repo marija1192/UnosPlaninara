@@ -1,0 +1,28 @@
+#naslov {
+	
+	height: 50px;
+	background-color: #B17179;
+}
+
+#formaUnos {
+	margin-left: 30px;
+}
+
+#header{
+	text-align: center;
+	font-size: 40px;
+	box-shadow: 0px 1px 2px 2px #dedede;
+	margin-bottom: 10px;
+}
+
+.forma {
+	width: 20%;
+}
+
+.unos h2 {
+	margin-left: 20px;
+}
+
+.pocetna, .dugme {
+	margin-left: 20px;
+}
